@@ -9,4 +9,4 @@ I enjoy turning messy data into clear, actionable insights — the same approach
 - Steam Reviews NLP — Sentiment Classification  
 - Wine Quality Predictor — Random Forest + Streamlit
 
-📫 Contact: [skeew0813@gmail.com](mailto:skeew0813@gmail.com)
+📫 Contact: [ryanweeks.data@gmail.com](mailto:ryanweeks.data@gmail.com)
